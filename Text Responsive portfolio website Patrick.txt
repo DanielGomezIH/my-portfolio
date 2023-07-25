@@ -163,7 +163,7 @@ EmailJS team
 Patrick <span>Moz</span>
 
 .footer__education
-Front-end Developer  
+Front-end Developer
 
 .footer__social-link
 https://www.facebook.com/
